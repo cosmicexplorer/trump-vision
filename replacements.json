@@ -1,0 +1,465 @@
+[{
+  "pattern": "mill?enn?ials'",
+  "replacement": {
+    "text": "snake people's"
+  }
+}, {
+  "pattern": "mill?enn?ials",
+  "replacement": {
+    "text": "snake people"
+  }
+}, {
+  "pattern": "mill?enn?ial",
+  "replacement": {
+    "text": "snake person"
+  }
+}, {
+  "pattern": "the cloud",
+  "replacement": {
+    "text": "the big data ghost in the sky"
+  }
+}, {
+  "pattern": "the clouds",
+  "replacement": {
+    "text": "the big data ghosts in the sky"
+  }
+}, {
+  "pattern": "cloud",
+  "replacement": {
+    "text": "butt"
+  }
+}, {
+  "pattern": "James Adam Buckland",
+  "replacement": {
+    "text": "bucklandia"
+  }
+}, {
+  "pattern": "Benjamin Zweig",
+  "replacement": {
+    "text": "banjo man"
+  }
+}, {
+  "pattern": "Danny McClanahan",
+  "replacement": {
+    "text": "dreamy man"
+  }
+}, {
+  "pattern": "sausage fest",
+  "replacement": {
+    "text": "artisanal meats faire"
+  }
+}, {
+  "pattern": "deep( |\\-)learning",
+  "replacement": {
+    "text": "cultural appropriation"
+  }
+}, {
+  "pattern": "machine( |\\-)learning",
+  "replacement": {
+    "text": "colossal squid attacks"
+  }
+}, {
+  "pattern": "an artificial intelligence",
+  "replacement": {
+    "text": "a vaporwave god"
+  }
+}, {
+  "pattern": "artificial intelligence",
+  "replacement": {
+    "text": "the vaporwave god"
+  }
+}, {
+  "pattern": "an AI",
+  "replacement": {
+    "text": "a vaporwave god"
+  },
+  "fullWord": true,
+  "strictCaps": true
+}, {
+  "pattern": "AI",
+  "replacement": {
+    "text": "the vaporwave god"
+  },
+  "fullWord": true,
+  "strictCaps": true
+}, {
+  "pattern": "(the |the technological )singularity",
+  "replacement": {
+    "text": "reaching orgasm"
+  }
+}, {
+  "pattern": "a (technological )?singularity",
+  "replacement": {
+    "text": "an orgasm"
+  }
+}, {
+  "pattern": "(technological )?singularity",
+  "replacement": {
+    "text": "orgasm"
+  }
+}, {
+  "pattern": "donald ([^\\\\s]+)? trump",
+  "replacement": {
+    "text": "angry orange man"
+  }
+}, {
+  "pattern": "devil's advocate",
+  "replacement": {
+    "text": "being a huge asshole"
+  }
+}, {
+  "pattern": "hacker",
+  "replacement": {
+    "text": "necromancer"
+  },
+  "fullWord": true
+}, {
+  "pattern": "hackers",
+  "replacement": {
+    "text": "necromancers"
+  },
+  "fullWord": true
+}, {
+  "pattern": "hacked",
+  "replacement": {
+    "text": "necromanced"
+  },
+  "fullWord": true
+}, {
+  "pattern": "hacking",
+  "replacement": {
+    "text": "necromancing"
+  },
+  "fullWord": true
+}, {
+  "pattern": "hack",
+  "replacement": {
+    "text": "skeleton"
+  },
+  "fullWord": true
+}, {
+  "pattern": "hacks",
+  "replacement": {
+    "text": "skeletons"
+  },
+  "fullWord": true
+}, {
+  "pattern": "an app",
+  "replacement": {
+    "text": "a terrible baby"
+  },
+  "fullWord": true
+}, {
+  "pattern": "app",
+  "replacement": {
+    "text": "terrible baby"
+  },
+  "fullWord": true
+}, {
+  "pattern": "apps",
+  "replacement": {
+    "text": "nightmare children"
+  },
+  "fullWord": true
+}, {
+  "pattern": "hack",
+  "replacement": {
+    "text": "fuck"
+  },
+  "fullWord": false
+}, {
+  "pattern": "poc",
+  "replacement": {
+    "text": "pos"
+  },
+  "fullWord": true
+}, {
+  "pattern": "algorithmically",
+  "replacement": {
+    "text": "coding interview-wise"
+  }
+}, {
+  "pattern": "algorithmic",
+  "replacement": {
+    "text": "coding interview-like"
+  }
+}, {
+  "pattern": "an algorithm",
+  "replacement": {
+    "text": "some coding interview thing"
+  }
+}, {
+  "pattern": "algorithms",
+  "replacement": {
+    "text": "coding interview things"
+  }
+}, {
+  "pattern": "algorithm",
+  "replacement": {
+    "text": "coding interview thing"
+  }
+}, {
+  "pattern": "an API",
+  "replacement": {
+    "text": "a Chaos Emerald"
+  },
+  "fullWord": true
+}, {
+  "pattern": "API",
+  "replacement": {
+    "text": "Chaos Emerald"
+  },
+  "fullWord": true,
+  "strictCaps": true
+}, {
+  "pattern": "APIs",
+  "replacement": {
+    "text": "Chaos Emeralds"
+  },
+  "fullWord": true,
+  "strictCaps": true
+}, {
+  "pattern": "an SDK",
+  "replacement": {
+    "text": "a door to the abyss"
+  },
+  "fullWord": true
+}, {
+  "pattern": "SDK",
+  "replacement": {
+    "text": "door to the abyss"
+  },
+  "fullWord": true,
+  "strictCaps": true
+}, {
+  "pattern": "SDKs",
+  "replacement": {
+    "text": "doors to the abyss"
+  },
+  "fullWord": true,
+  "strictCaps": true
+}, {
+  "pattern": "debate",
+  "replacement" : {
+    "text": "dance-off"
+  },
+  "fullWord": true
+}, {
+  "pattern": "self driving",
+  "replacement" : {
+    "text": "uncontrollably swerving"
+  },
+  "fullWord": true
+}, {
+  "pattern": "poll",
+  "replacement" : {
+    "text": "psychic reading"
+  },
+  "fullWord": true
+}, {
+  "pattern": "candidate",
+  "replacement" : {
+    "text": "airbender"
+  },
+  "fullWord": true
+}, {
+  "pattern": "drone",
+  "replacement" : {
+    "text": "dog"
+  },
+  "fullWord": true
+}, {
+  "pattern": "vows to",
+  "replacement" : {
+    "text": "probably won't"
+  },
+  "fullWord": true
+}, {
+  "pattern": "at large",
+  "replacement" : {
+    "text": "very large"
+  },
+  "fullWord": true
+}, {
+  "pattern": "first-degree",
+  "replacement" : {
+    "text": "friggin' awful"
+  },
+  "fullWord": true
+}, {
+  "pattern": "second-degree",
+  "replacement" : {
+    "text": "friggin' awful"
+  },
+  "fullWord": true
+}, {
+  "pattern": "third-degree",
+  "replacement" : {
+    "text": "friggin' awful"
+  },
+  "fullWord": true
+}, {
+  "pattern": "an unknown number",
+  "replacement" : {
+    "text": "like hundreds"
+  },
+  "fullWord": true
+}, {
+  "pattern": "front runner",
+  "replacement" : {
+    "text": "blade runner"
+  },
+  "fullWord": true
+},{
+  "pattern": "no indication",
+  "replacement" : {
+    "text": "lots of signs"
+  },
+  "fullWord": true
+}, {
+  "pattern": "urged restraint by",
+  "replacement" : {
+    "text": "drunkenly egged on"
+  },
+  "fullWord": true
+}, {
+  "pattern": "horsepower",
+  "replacement" : {
+    "text": "tons of horsemeat"
+  },
+  "fullWord": true
+}, {
+  "pattern": "witnesses",
+  "replacement": {
+    "text": "these guys I know"
+  },
+  "fullWord": true
+}, {
+  "pattern": "witness",
+  "replacement": {
+    "text": "this guy I know"
+  },
+  "fullWord": true
+}, {
+  "pattern": "allegedly",
+  "replacement": {
+    "text": "kinda probably"
+  },
+  "fullWord": true
+}, {
+  "pattern": "new study",
+  "replacement": {
+    "text": "tumblr post"
+  },
+  "fullWord": true
+}, {
+  "pattern": "rebuild",
+  "replacement": {
+    "text": "avenge"
+  },
+  "fullWord": true
+}, {
+  "pattern": "space",
+  "replacement": {
+    "text": "spaaace"
+  },
+  "fullWord": true
+}, {
+  "pattern": "google glass",
+  "replacement": {
+    "text": "virtual boy"
+  },
+  "fullWord": true
+}, {
+  "pattern": "smart\\s*phone",
+  "replacement": {
+    "text": "pokédex"
+  },
+  "fullWord": true
+}, {
+  "pattern": "electric",
+  "replacement": {
+    "text": "atomic"
+  },
+  "fullWord": true
+}, {
+  "pattern": "senator",
+  "replacement": {
+    "text": "elf-lord"
+  },
+  "fullWord": true
+}, {
+  "pattern": "election",
+  "replacement": {
+    "text": "eating contest"
+  },
+  "fullWord": true
+}, {
+  "pattern": "congressional leaders",
+  "replacement": {
+    "text": "river spirits"
+  },
+  "fullWord": true
+}, {
+  "pattern": "homeland security",
+  "replacement": {
+    "text": "homestar runner"
+  },
+  "fullWord": true
+}, {
+  "pattern": "could not be reached for comment",
+  "replacement": {
+    "text": "is guilty and everyone knows it"
+  },
+  "fullWord": true
+}, {
+  "pattern": "political correctness",
+  "replacement": {
+    "text": "treating people with respect"
+  }
+}, {
+  "pattern": "alt-right movement",
+  "replacement": {
+    "text": "white supremacist movement"
+  }
+}, {
+  "pattern": "the alt-right",
+  "replacement": {
+    "text": "white supremacists"
+  }
+}, {
+  "pattern": "alt-right",
+  "replacement": {
+    "text": "white supremacist"
+  }
+}, {
+  "pattern": "russian",
+  "replacement": {
+    "text": "Mordorian"
+  }
+}, {
+  "pattern": "russia",
+  "replacement": {
+    "text": "Mordor"
+  }
+}, {
+  "pattern": "israeli",
+  "replacement": {
+    "text": "p⁠alestinian"
+  }
+}, {
+  "pattern": "palestinian",
+  "replacement": {
+    "text": "i⁠sraeli"
+  }
+}, {
+  "pattern": "israel",
+  "replacement": {
+    "text": "p⁠alestine"
+  }
+}, {
+  "pattern": "palestine",
+  "replacement": {
+    "text": "i⁠srael"
+  }
+}]

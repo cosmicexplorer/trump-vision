@@ -1,0 +1,14 @@
+{
+  "name": "trump-vision",
+  "version": "0.0.0",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cosmicexplorer/imposters.git"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.0",
+    "coffee-script": "^1.10.0"
+  },
+  "dependencies": {}
+}
